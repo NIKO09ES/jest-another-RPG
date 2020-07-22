@@ -3,12 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "dependencies": {
-    "inquirer": "^7.3.2"
-  },
-  "devDependencies": {
-    "jest": "^26.1.0"
-  },
   "scripts": {
     "test": "jest"
   },
@@ -21,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/NIKO09ES/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/NIKO09ES/jest-another-RPG#readme"
+  "homepage": "https://github.com/NIKO09ES/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  }
 }
